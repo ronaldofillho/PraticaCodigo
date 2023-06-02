@@ -1,0 +1,39 @@
+.cadastro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-insercao-fruta {
+  width: 400px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tituloLogin {
+  background-color: #1976d2;
+  color: white;
+}
+
+.mat-card-title {
+  padding: 16px;
+}
+
+.mat-form-simples {
+  margin: 16px;
+}
+
+.bt {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.mat-card-actions {
+  display: flex;
+  justify-content: center;
+}
+
+button[mat-raised-button] {
+  width: 200px;
+}
